@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "covid_jwtPrivateKey",
+  "mongodbServerLink": "covid_mongodbServerLink",
+  "serverUrl": "covid_serverUrl"
+}
