@@ -4,4 +4,4 @@
 
 #RUN BY (node index.js)
 
-#AFTER GETING SERVER LINK AND SET (export covid_serverUrl)
+#AFTER GETING SERVER LINK THEN SET (export covid_serverUrl)
